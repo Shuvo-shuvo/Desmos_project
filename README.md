@@ -1,10 +1,4 @@
-Here’s a **GitHub-ready README** for your Desmos Graphing Calculator project on Stephen Hawking, concise and visually structured:
-
----
-
 # Desmos Graphing Calculator – Stephen Hawking Visualizations
-
-![Desmos Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Desmos_Logo.svg)
 
 ## Overview
 
